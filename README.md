@@ -1,2 +1,2 @@
-# vikas-devops
-My DevOps learning journey with hands-on projects and practice
+Day 1: Created Azure VM and practiced Linux commands
+
